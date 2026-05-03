@@ -26,6 +26,6 @@ mvn test
 ## Förväntat resultat
 
 ```
-Tests run: 8, Failures: 0, Errors: 0, Skipped: 0
+Tests run: 8, Failures: 0
 BUILD SUCCESS
 ```
