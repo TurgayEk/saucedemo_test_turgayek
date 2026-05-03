@@ -5,9 +5,9 @@ Automatiserade tester för inloggningsfunktionen på [saucedemo.com](https://www
 
 ## Testfall
 
-- Lyckad inloggning med korrekta uppgifter
-- Fel användarnamn – felmeddelande visas
-- Fel lösenord – felmeddelande visas
+1 Lyckad inloggning med korrekta uppgifter
+2 Fel användarnamn – felmeddelande visas
+3 Fel lösenord – felmeddelande visas
 
 ## Krav
 
